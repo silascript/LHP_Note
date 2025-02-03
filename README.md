@@ -2,8 +2,12 @@
 
 ---
 
-文、史、哲笔记（Literature、History、Philosophy）
+文、史、哲笔记。
 
-目录以国家划分。
+* [文学笔记](Literature/Literature_Note.md)
+* [历史笔记](History/History_Note.md)
+* Philosophy
+
+
 
 
